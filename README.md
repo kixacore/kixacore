@@ -1,5 +1,6 @@
-- 👋 Hey there! I'm Jeri.
-- 👾 I'm a 2D and 3D Artist.
+- 👋 Hey there!
+- 👾 My name is Jeri.
+- 🎨 I'm a 2D and 3D Artist.
 - 🌱 I’m currently learning how to code!
 - 🐦 You can find me on Twitter as @kixacore!
 
